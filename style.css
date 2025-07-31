@@ -2,14 +2,13 @@
   padding: 0px;
   margin: 0px;
 }
-
 header {
   padding: 20px;
   padding-left: 60px;
+  background-color:white; 
   position: sticky;
   top: 0;
-  background-color:white;
-  z-index: 0;  
+  z-index: 100 ;
 }
 body {
   background-color: white;
@@ -371,8 +370,3 @@ font-size: 35px;
     margin: 0%;
   }
 }
-
-
-
-
-
